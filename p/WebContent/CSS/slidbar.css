@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+ul.sidenav {
+    height: 400px;
+    width: 160px;
+   
+    z-index: 10;
+    top: 10;
+    left: 0;
+    background-color:   #8c8c8c;
+    overflow-x:visible;
+    padding-top: 20px;
+}
+
+ul.sidenav a {
+    padding: 15px 8px 12px 8px;
+    text-decoration:inherit;
+    font-size: 15px;
+    color: #000000;
+    display:block;;
+}
+
+ul.sidenav a:hover {
+    color:   #ffffff;
+}

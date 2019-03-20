@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+	div.fixHeader
+	{
+		position:fixed;
+		top:0px;
+		right:0px;
+		width:100%;
+		color:#CCC;
+		height: 110px;
+		background-image: url('../Images/slelections.jpg');
+		/*background-color:#595959;*/
+		padding-top:40px;
+	
+	}
+	.search
+	{
+		float:right;
+	}
+	div.fixFooter
+	{
+		position:fixed;
+		bottom:0px;
+		left:0px;
+		width:100%;
+		color:#CCC;
+		background:black;
+		padding:0px;
+	}
+	.logo
+	{
+		width: 20%;
+	}
